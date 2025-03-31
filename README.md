@@ -1,6 +1,6 @@
 # Sales Prediction Analysis
 
-![Sales Prediction]([https://github.com/Jatin-s16/Sales-Prediction-Dataset/blob/main/predicted_sales.png])
+![Image](https://github.com/Jatin-s16/Sales-Prediction-Dataset/blob/main/predicted_sales.png)
 
 ## Project Overview
 This project analyzes advertising expenditure data (TV, Radio, Newspaper) and its impact on product sales using linear regression.
