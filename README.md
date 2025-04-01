@@ -1,4 +1,4 @@
-# Sales Prediction Analysis
+# Finlatics Sales Forecast Analysis
 
 ![Image](https://github.com/Jatin-s16/Sales-Prediction-Dataset/blob/main/sales-forecast-illustration-wooden-table-260nw-463853141.webp)
 
